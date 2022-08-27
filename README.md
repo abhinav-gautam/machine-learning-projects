@@ -1,4 +1,5 @@
 # machine-learning-projects
+
 Ads Project - Logistic Regression,
 Classified Data 1 - KNN,
 Classified Data 2 - KNN,
@@ -14,4 +15,3 @@ Spam Filter - NLP,
 Titanic Destruction - Logistic Regression,
 Weather - Linear Regression,
 Yelp Reviews - NLP
-
