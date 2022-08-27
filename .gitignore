@@ -4,3 +4,4 @@
 .idea
 !/**/*.ipynb
 !/**/*.py
+!Readme.md
