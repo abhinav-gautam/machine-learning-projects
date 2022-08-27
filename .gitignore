@@ -1,5 +1,17 @@
+*
+!/**/
+!*.*
 .ipynb_checkpoints
 .idea
+Data
+data
 *.png
 *.jpg
 *.jpeg
+*.csv
+*.xls
+*.xlsx
+*.pickle
+*.data
+*.info
+/**/*.txt
