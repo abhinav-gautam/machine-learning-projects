@@ -14,4 +14,4 @@ data
 *.pickle
 *.data
 *.info
-/**/*.txt
+*.txt
