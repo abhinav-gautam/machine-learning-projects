@@ -40,11 +40,12 @@
 -   Translator (English to Spanish)
 -   Tweets Cluster Analysis
 -   Yelp Reviews
+-   Restaurant Reviews Classification
 
 ## Regression
 
 -   Decision Tree Regression - Position Salaries
--   Ecommerece Customers - Linear Regression
+-   E-commerce Customers - Linear Regression
 -   Logistic Regression - Social Network Ads
 -   Multiple Linear Regression - 50 Startups
 -   Polynomial Linear Regression - Position Salaries
@@ -57,6 +58,8 @@
 ## Reinforcement Learning
 
 -   Frozen Lake
+-   UCB - Ads CTR Optimization
+-   Thompson Sampling - Ads CTR Optimization
 
 ## Recommender System
 
