@@ -30,18 +30,6 @@
 -   K Means Clustering - Blob
 -   k-means - Mall Customers
 
-## Natural Language Processing
-
--   News Classification and Sentiment Analysis
--   Reuter_50_50
--   Spam Filter
--   Text Conversion, POS and Sentiment
--   Text Summarization
--   Translator (English to Spanish)
--   Tweets Cluster Analysis
--   Yelp Reviews
--   Restaurant Reviews Classification
-
 ## Regression
 
 -   Decision Tree Regression - Position Salaries
