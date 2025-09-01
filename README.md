@@ -22,6 +22,7 @@
 -   Random Forest Classifier - Social Networking
 -   SVC - Social Networking
 -   Titanic Destruction - Logistic Regression
+-   L&T Vehicle Default Prediction
 
 ## Clustering
 
