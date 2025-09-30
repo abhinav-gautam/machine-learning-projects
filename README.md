@@ -43,6 +43,7 @@
 -   SVR - Position Salaries
 -   US Housing - Linear Regression
 -   Weather - Linear Regression
+-   Thermophysical Property: Melting Point
 
 ## Reinforcement Learning
 
